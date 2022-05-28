@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EyeExamParsedAPI", "EyeExamParsedAPI\EyeExamParsedAPI.csproj", "{93B54E1A-AAB6-4626-A08D-7AE47DA74E8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EyeExamParsedApiTests", "EyeExamParsedApiTests\EyeExamParsedApiTests.csproj", "{D8E12D86-1153-42BD-9EBC-38FB5D1E51F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93B54E1A-AAB6-4626-A08D-7AE47DA74E8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93B54E1A-AAB6-4626-A08D-7AE47DA74E8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93B54E1A-AAB6-4626-A08D-7AE47DA74E8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93B54E1A-AAB6-4626-A08D-7AE47DA74E8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8E12D86-1153-42BD-9EBC-38FB5D1E51F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8E12D86-1153-42BD-9EBC-38FB5D1E51F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8E12D86-1153-42BD-9EBC-38FB5D1E51F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8E12D86-1153-42BD-9EBC-38FB5D1E51F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B2FEF6A-4965-4434-AF5C-9C52105D4D9D}
+	EndGlobalSection
+EndGlobal
